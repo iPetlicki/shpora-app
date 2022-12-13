@@ -1,0 +1,31 @@
+.ul-style {
+    list-style: none;
+    padding: 0 0;
+    margin: 40px;
+}
+
+.a-style {
+    color: azure;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+li {
+    transition: ease-in-out 0.8s;
+    margin: 5px 0;
+}
+
+li:hover {
+    text-shadow: 0 0 20px #f41da6, 0 0 20px #f41da6;
+    transition: ease-in-out 0.5s;
+}
+
+.a-style:active {
+    transition:  0.1s;
+    text-shadow: 0 0 20px #8cc0fa, 0 0 20px #8cc0fa;
+}
+
+.active {
+    text-shadow: 0 0 20px #f41da6, 0 0 20px #f41da6;
+    text-decoration: underline;
+}

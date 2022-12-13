@@ -1,0 +1,19 @@
+.content {
+    padding: 14px;
+    margin: 10px;
+    background-color: rgba(3,0,49, 0.85);
+    border: 1px azure solid;
+    border-radius: 30px;
+    backdrop-filter: blur(8px)
+}
+
+
+pre {
+    background-color: azure;
+    color: black;
+    border-radius: 30px;
+}
+
+.content:hover li {
+    text-shadow: none;
+}

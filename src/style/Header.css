@@ -1,0 +1,27 @@
+.navStyle {
+    margin: 20px 36px;
+    display: flex;
+    justify-content: flex-start;
+}
+
+.aStyle {
+    color: azure;
+    text-decoration: none;
+    font-size: 32px;
+    margin-right: 40px;
+}
+
+.aStyle:hover {
+    transition:  0.8s;
+    text-shadow: 0 0 20px #f41da6, 0 0 20px #f41da6;
+}
+
+.aStyle:active {
+    transition:  0.1s;
+    text-shadow: 0 0 20px #8cc0fa, 0 0 20px #8cc0fa;
+}
+
+.active {
+    text-shadow: 0 0 20px #f41da6, 0 0 20px #f41da6;
+    text-decoration: underline;
+}
