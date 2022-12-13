@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/iPetlicki/shpora-app/static/css/main.f7c4ffb8.css",
-    "main.js": "/iPetlicki/shpora-app/static/js/main.9445f1a2.js",
-    "static/media/index-back-image.png": "/iPetlicki/shpora-app/static/media/index-back-image.e205ceee62b498856185.png",
-    "index.html": "/iPetlicki/shpora-app/index.html",
-    "main.f7c4ffb8.css.map": "/iPetlicki/shpora-app/static/css/main.f7c4ffb8.css.map",
-    "main.9445f1a2.js.map": "/iPetlicki/shpora-app/static/js/main.9445f1a2.js.map"
+    "main.css": "/shpora-app/static/css/main.e46e7909.css",
+    "main.js": "/shpora-app/static/js/main.9445f1a2.js",
+    "static/media/index-back-image.png": "/shpora-app/static/media/index-back-image.e205ceee62b498856185.png",
+    "index.html": "/shpora-app/index.html",
+    "main.e46e7909.css.map": "/shpora-app/static/css/main.e46e7909.css.map",
+    "main.9445f1a2.js.map": "/shpora-app/static/js/main.9445f1a2.js.map"
   },
   "entrypoints": [
-    "static/css/main.f7c4ffb8.css",
+    "static/css/main.e46e7909.css",
     "static/js/main.9445f1a2.js"
   ]
 }
